@@ -1,0 +1,35 @@
+﻿body {
+    margin: 0 auto;
+    font-family: "ascardi_sans.otf";
+    background-image: url(../images/robot1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: 100%;
+    color: white;
+}
+
+header {
+    height: 119px;
+    text-align: left;
+    border-bottom: 1px solid #494849;
+}
+
+
+header a {
+    position: relative;
+    color: white;
+    line-height: 120px;
+    margin-left: 40px;
+    font-size: 14px;
+    text-transform: uppercase;
+    transition: color .3s;
+}
+
+header .container {
+    width: 1050px;
+}
+
+.container {
+    margin: 0 auto;
+}
